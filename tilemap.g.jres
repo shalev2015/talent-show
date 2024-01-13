@@ -1,0 +1,77 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAABmzMzMvLsAAHd3Z2a2uwsAd3d3Zma9uwB3d3dnZt29AHd3d2fd3R0Ad3d3d2bdHQF3d3d3Z9bdAXd3d3dn1t0dd3d3d9bd3R13d3d3Z93dHXd3d3dn1t0dd3d3d2bW3RF3d3dnZtYdAXd3d3d31h0Bd3d3d2bWHQB3d3d3Z9YdAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAADu7u7u7u7u7u7u/v/v7u7u7u7u7u7v7u/+7u7u7u7u7u7u7u7u7u7u7u7u7v/v7u7u7u/u7u7+7u7v/u/u7u7u7u/u7+7u7+7u/u7u/u/v7+7/7u7u7u7u7u/u7u7u7u7u7v7/7u7+7u7u7v7v/u7u7u7u7u7u7u7u7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "tri1"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d/9/d3d3d3f/d/d3d/93/3d3////f/f///93/393d3d3d3d3d3d39393/3d3d3d3////f3d3d3d3d3d3d3d393d3d3d3d3f3d/d3d3d3d/d//////3d3d39/93d3d3d3/393d3d3d3f/d3d3d3d3d/93d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBjMGMwYzAyMTAxMDEwMGUwZTBlMGUwZTBlMGUwZTA1MDgwNzA4MGQwZjBmMGYwZjBmMGYwZjBmMGYwZjBmMTMwOTA4MDcwZDBmMGYwZjBmMGYwZjBmMGYwZjBmMGYxMzA4MDcwODBkMGYxZTFkMjYyNTI1MWMxYzFiMGYwZjEzMDIwZTEyMTIxMjE1MGMwYzBjMGMwYzBjMTkwZjBmMTMwZDEyMTIxMjEyMTIwYzBjMGMwYzBjMGMxOTBmMGYxMzBkMTIxMjEyMTIxMjBjMGMyMDIxMGMwYzI0MGYwZjEzMGQwZjBmMTEwZjIzMGMwYzFmMTYwYzBjMjQwZjBmMTMwZDBmMGYxMTBmMTUwYzBjMGMwYzBjMGMxYTBmMGYxMzBkMGYwZjExMGYxNTBjMGMwYzBjMGMwYzE5MGYwZjEzMGQwZjBmMTEwZjE0MTcxNzIyMjIxNzE3MTgwZjBmMTMwZDBmMGYxMTBmMGYwZjBmMGYwZjBmMGYwZjBmMGYxMzA0MDYxMTExMTEwNjA2MDYwNjA2MDYwNjA2MDYwNjAzMGEwYTBhMDEwYTBhMGEwYTBhMGEwYTBhMDEwYTBhMDEwODA5MDgwOTA3MDgwODBhMGIwMTBiMGEwYjAxMGEwYTA3MDcwNzA3MDcwNzA5MDgwYTBhMGEwMTBhMGIwYjBiMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tileDarkGrass1",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.castle.tileDarkGrass3",
+            "sprites.castle.tileGrass3",
+            "sprites.castle.tileGrass1",
+            "sprites.builtin.forestTiles0",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath5",
+            "sprites.builtin.forestTiles8",
+            "myTiles.tile2",
+            "myTiles.tile3",
+            "sprites.castle.tilePath6",
+            "sprites.dungeon.greenOuterSouthEast",
+            "sprites.dungeon.greenOuterWest1",
+            "sprites.dungeon.greenInnerSouthEast",
+            "sprites.dungeon.greenOuterSouth0",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterEast1",
+            "sprites.dungeon.greenOuterEast0",
+            "sprites.dungeon.greenOuterNorthEast",
+            "sprites.dungeon.greenOuterNorth0",
+            "sprites.dungeon.greenOuterNorth1",
+            "sprites.dungeon.greenOuterNorthWest",
+            "sprites.dungeon.greenInnerSouthWest",
+            "sprites.dungeon.greenInnerNorthWest",
+            "sprites.dungeon.greenInnerNorthEast",
+            "sprites.dungeon.greenOuterSouth2",
+            "sprites.dungeon.greenOuterWest2",
+            "sprites.dungeon.greenOuterEast2",
+            "sprites.dungeon.greenOuterNorth2",
+            "sprites.dungeon.greenSwitchUp"
+        ],
+        "displayName": "level"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
